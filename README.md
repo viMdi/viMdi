@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я Виталий 👋
 
-<!--
-**viMdi/viMdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linux System Administrator / Инженер по эксплуатации
+Работаю с Linux, сетями и автоматизацией. Ежедневно диагностирую инциденты, пишу скрипты на Python/Bash и развиваюсь в сторону DevOps.
 
-Here are some ideas to get you started:
+### 🛠 Мой стек:
+- **OS:** Linux (Arch, Debian, Ubuntu), Windows
+- **Automation:** Python (Netmiko, Requests), Bash, Ansible (AWX)
+- **Infrastructure:** Docker, Nginx, MySQL, Zabbix, Grafana
+- **Network:** TCP/IP, VLAN, BGP, DHCP, DNS, VPN (OpenVPN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Мои проекты:
+- [netmiko_diagnostic](https://github.com/viMdi/netmiko_diagnostic) — Автоматизация диагностики сетевого оборудования через Netmiko + Docker
+- [pexpect-regex](https://github.com/viMdi/pexpect-regex) — Диагностика D-Link через Telnet с использованием pexpect
+- [aur-helper-bot](https://github.com/viMdi/aur-helper-bot) — Telegram-бот для поиска пакетов в Arch User Repository
+
+### 📫 Как со мной связаться:
+- Telegram: [@dvv_m](https://t.me/dvv_m)
